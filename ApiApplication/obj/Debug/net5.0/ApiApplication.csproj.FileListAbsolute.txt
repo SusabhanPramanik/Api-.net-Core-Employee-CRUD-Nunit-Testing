@@ -1,0 +1,114 @@
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.exe
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.deps.json
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.runtimeconfig.json
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.runtimeconfig.dev.json
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\ref\ApiApplication.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.pdb
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Npgsql.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.AssemblyReference.cache
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.AssemblyInfoInputs.cache
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.AssemblyInfo.cs
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.CoreCompileInputs.cache
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.Manifest.cache
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.xml
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\scopedcss\bundle\ApiApplication.styles.css
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.RazorTargetAssemblyInfo.cache
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.CopyComplete
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ref\ApiApplication.dll
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.pdb
+C:\Users\40020512\source\repos\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.genruntimeconfig.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\appsettings.json
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.exe
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.deps.json
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.runtimeconfig.json
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.runtimeconfig.dev.json
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\ref\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\ApiApplication.pdb
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Humanizer.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Npgsql.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.AssemblyReference.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.AssemblyInfoInputs.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.AssemblyInfo.cs
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.CoreCompileInputs.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.Manifest.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.xml
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\scopedcss\bundle\ApiApplication.styles.css
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.RazorTargetAssemblyInfo.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.CopyComplete
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ref\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.pdb
+D:\OneDrive - LTTS\Desktop\ApiApplication\ApiApplication\obj\Debug\net5.0\ApiApplication.genruntimeconfig.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\appsettings.json
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\ApiApplication.exe
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\ApiApplication.deps.json
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\ApiApplication.runtimeconfig.json
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\ApiApplication.runtimeconfig.dev.json
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\ref\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\ApiApplication.pdb
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Humanizer.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Npgsql.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.AssemblyReference.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.AssemblyInfoInputs.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.AssemblyInfo.cs
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.CoreCompileInputs.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.Manifest.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.xml
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\scopedcss\bundle\ApiApplication.styles.css
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.RazorTargetAssemblyInfo.cache
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.csproj.CopyComplete
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ref\ApiApplication.dll
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.pdb
+D:\OneDrive - LTTS\Desktop\ApiApplication - Copy\ApiApplication\obj\Debug\net5.0\ApiApplication.genruntimeconfig.cache
